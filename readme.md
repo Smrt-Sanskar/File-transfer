@@ -14,3 +14,5 @@ Compile them using :
 Then first start the server : ./server.out
 Then start the client1 : ./a.out
 Then start the client2 : ./a.out
+
+Video description - https://youtu.be/iyKU29E5MWM
